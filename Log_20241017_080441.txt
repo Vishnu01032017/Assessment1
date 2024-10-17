@@ -1,0 +1,39 @@
+[3] 8:04:41 AM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Assessment1\Assessment1.tws'
+[3] 8:04:41 AM: Log level: 4
+[3] 8:04:41 AM: Release: 24.1.1.5090
+[3] 8:04:41 AM: Execution Approval is disabled.
+[3] 8:04:41 AM: No service discovery configured.
+[3] 8:04:41 AM:  Save started!
+[3] 8:04:41 AM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 8:04:41 AM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 8:04:41 AM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 8:04:41 AM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 8:04:41 AM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 8:04:41 AM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 8:04:42 AM:  Save finished!
+[2] 8:04:42 AM: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 8:04:42 AM:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 8:04:42 AM:  Save started!
+[3] 8:04:42 AM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 8:04:42 AM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 8:04:42 AM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 8:04:42 AM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 8:04:42 AM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 8:04:42 AM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 8:04:42 AM:  Save finished!
+[4] 8:04:42 AM:  ShowStatusInfo: 'Workspace 'C:\Tosca_Projects\Tosca_Workspaces\Assessment1\Assessment1.tws' created successfully!'
+[4] 8:04:42 AM:  ShowStatusInfo: 'Importing workspace template, please wait...'
+[4] 8:04:44 AM:  ShowStatusInfo: 'Import Subset finalizing ...'
+[4] 8:04:44 AM:  ShowStatusInfo: 'Import Subset finished'
+[3] 8:04:44 AM: Task 'Import Subset' finished
+[4] 8:04:44 AM:  ShowStatusInfo: 'Workspace template successfully imported!'
+[3] 8:04:44 AM:  Save started!
+[3] 8:04:44 AM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 8:04:44 AM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 8:04:44 AM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 8:04:44 AM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 8:04:44 AM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 8:04:44 AM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 8:04:44 AM:  Save finished!
+[3] 8:04:47 AM: Closing Workspace!
+[3] 8:04:47 AM: Log closed!
